@@ -9,7 +9,9 @@ try {
 
 
 console.log("Data Base Connected Successully")
-let URI = "mongodb+srv://arpitvermaetw:xT3JaNpWGSabOHPC@innerdata.v6pwutf.mongodb.net/"
+// let URI = "mongodb+srv://arpitvermaetw:xT3JaNpWGSabOHPC@innerdata.v6pwutf.mongodb.net/"
+
+let URI = "mongodb://localhost:27017"
 
   
   mongoose.connect(URI)
