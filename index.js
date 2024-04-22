@@ -9,9 +9,9 @@ try {
 
 
 console.log("Data Base Connected Successully")
-// let URI = "mongodb+srv://arpit123:qwertyuiop@cluster0.gac5i0r.mongodb.net/mydata?retryWrites=true&w=majority"
+// let URI = "mongodb+srv://arpitvermaetw:xT3JaNpWGSabOHPC@innerdata.v6pwutf.mongodb.net/"
 
-let URI = "mongodb+srv://arpitverma:Arpit@2003@innerdata.zrhqeht.mongodb.net/innderdata?retryWrites=true&w=majority"
+let URI = "mongodb+srv://arpitverma:Arpit@2003@innerdata.zrhqeht.mongodb.net/innderdata"
 
   
   mongoose.connect(URI)
